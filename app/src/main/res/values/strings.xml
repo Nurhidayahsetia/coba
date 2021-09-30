@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">coba</string>
+    <string name="pindah_activity_2">Pindah Activity 2</string>
+    <string name="pindah_activity_3">Pindah Activity 3</string>
+    <string name="pindah_activity_4">Pindah Activity 4</string>
+    <string name="pindah_activity_5">Pindah Activity 5</string>
+    <string name="pindah_activity_6">Pindah Activity 6</string>
+    <string name="pindah_activity_7">Pindah Activity 7</string>
 </resources>

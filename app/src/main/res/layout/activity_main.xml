@@ -39,10 +39,12 @@
                 android:orientation="vertical"
                 android:layout_gravity = "center_horizontal|center_vertical">
                 <ImageView
+                    android:id="@+id/iv_sains"
                     android:layout_width="90dp"
                     android:layout_height="90dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/astronomy">
+                    android:src="@drawable/astronomy"
+                    android:text="@string/pindah_activity_2">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
@@ -72,10 +74,12 @@
                 android:orientation="vertical"
                 android:layout_gravity = "center_horizontal|center_vertical">
                 <ImageView
+                    android:id="@+id/iv_matematika"
                     android:layout_width="95dp"
                     android:layout_height="95dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/calculator">
+                    android:src="@drawable/calculator"
+                    android:text="@string/pindah_activity_3">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
@@ -105,10 +109,12 @@
                 android:orientation="vertical"
                 android:layout_gravity = "center_horizontal|center_vertical">
                 <ImageView
+                    android:id="@+id/iv_biologi"
                     android:layout_width="95dp"
                     android:layout_height="95dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/microscope">
+                    android:src="@drawable/microscope"
+                    android:text="@string/pindah_activity_4">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
@@ -138,10 +144,12 @@
                 android:orientation="vertical"
                 android:layout_gravity = "center_horizontal|center_vertical">
                 <ImageView
+                    android:id="@+id/iv_kimia"
                     android:layout_width="95dp"
                     android:layout_height="95dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/molecule">
+                    android:src="@drawable/molecule"
+                    android:text="@string/pindah_activity_5">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
@@ -171,10 +179,12 @@
                 android:orientation="vertical"
                 android:layout_gravity = "center_horizontal|center_vertical">
                 <ImageView
+                    android:id="@+id/iv_senibudaya"
                     android:layout_width="90dp"
                     android:layout_height="90dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/paint">
+                    android:src="@drawable/paint"
+                    android:text="@string/pindah_activity_6">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
@@ -204,10 +214,12 @@
                 android:orientation="vertical"
                 android:layout_gravity = "center_horizontal|center_vertical">
                 <ImageView
+                    android:id="@+id/iv_fisika"
                     android:layout_width="95dp"
                     android:layout_height="95dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/physics">
+                    android:src="@drawable/physics"
+                    android:text="@string/pindah_activity_7">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
